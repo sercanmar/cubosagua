@@ -8,3 +8,4 @@ Entorns de Desenrotllament
 
 Programa exemple per activitat de Github amb Python
 
+9/5/2023 20:15 Añadida opción de llenar todos los cubos
